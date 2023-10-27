@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mitchelle Okubasu</h1>
 <h3 align="center">A passionate Data Analyst | Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif&tbnid=LOhuNzG-b0sdKM&vet=12ahUKEwih46r4jJaCAxXTkScCHW8YAfoQMygBegQIARBd..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=800&h=600&q=coding%20gif%20for%20github&hl=en&ved=2ahUKEwih46r4jJaCAxXTkScCHW8YAfoQMygBegQIARBd">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7212979-Character-Animation">
 
 - 🔭 I’m currently working on **Data Analysis challenges**
 
