@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mitchelle Okubasu</h1>
 <h3 align="center">A passionate Data Analyst | Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7212979-Character-Animation">
+
 
 - 🔭 I’m currently working on **Data Analysis challenges**
 
